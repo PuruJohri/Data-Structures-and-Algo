@@ -12,7 +12,7 @@ It is an open source repository containing important Java concepts and also some
 <li>Interfaces</li>
 <li>Linked List</li>
 <li>Doubly Ended Queue</li>
-<li>Treest</li>
+<li>Trees</li>
 <li>Recursion</li>
 <li>DP</li>
 </ol>
@@ -20,4 +20,4 @@ It is an open source repository containing important Java concepts and also some
 # Installation
 <li>JDK - Downloadn</li>
 <li>Eclipse IDE - Download</li>
-Eclipse IDE - Download
+
