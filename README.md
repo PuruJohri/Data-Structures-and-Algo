@@ -2,21 +2,22 @@
 It is an open source repository containing important Java concepts and also some problems which are really important from the interview point of view.
 
 # Topics Covered:
->Vector
->Stacks
-.Sets
-.Queue
-.Priority Queue
-.Maps
-.Lists
-.Linked List
-.Important Interview Questions
-.Interfaces
-.Doubly Ended Queue
-.DP
-.Trees
-.Recursion
+<ol>
+<li>Vector</li>
+<li>Stacks</li>
+<li>Sets</li>
+<li>Queue</li>
+<li>Priority Queue</li>
+<li>Maps</li>
+<li>Interfaces</li>
+<li>Linked List</li>
+<li>Doubly Ended Queue</li>
+<li>Treest</li>
+<li>Recursion</li>
+<li>DP</li>
+</ol>
 
 # Installation
-JDK - Download
+<li>JDK - Downloadn</li>
+<li>Eclipse IDE - Download</li>
 Eclipse IDE - Download
