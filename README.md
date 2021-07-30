@@ -2,8 +2,8 @@
 It is an open source repository containing important Java concepts and also some problems which are really important from the interview point of view.
 
 # Topics Covered:
-.Vector
-.Stacks
+>Vector
+>Stacks
 .Sets
 .Queue
 .Priority Queue
